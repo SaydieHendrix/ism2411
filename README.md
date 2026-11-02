@@ -21,3 +21,10 @@ Each folder corresponds to one module.
 Each script is standalone. Open a terminal and run:
 
     python week07/functions.py
+
+# reflection
+
+
+# 1 Yes they do
+# 2 Git lets you instantly roll back to a previous working version of your file so you can undo the mistake instead of losing everything.
+# 3 Because those files often contain personal info, private notes, or app‑specific data, sharing them with everyone could expose things you never intended others to see.
